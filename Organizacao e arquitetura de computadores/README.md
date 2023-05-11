@@ -203,7 +203,7 @@ chega a quase cinquenta por cento na execução da atividade, ou seja, enquanto 
 processador executa a atividade em doze segundos, o dispositivo de E/S continua levando dez
 segundos para executá-la. </p>
 
-<h3> Representacao da informacao<h3>
+<h3> Representacao da informacao</h3>
 
 <p> Como já citado, os computadores usam uma forma diferente para tratar as informações
 que devem ser processadas: enquanto nós, seres humanos, tratamos a informação através de
